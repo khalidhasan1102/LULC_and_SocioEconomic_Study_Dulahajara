@@ -1,12 +1,12 @@
 # LULC and Socio-Economic Analysis of Dulahajara Mouza (Bangladesh)
 
-## 📌 Project Overview
+##  Project Overview
 This academic GIS project aims to analyze **Land Use/Land Cover (LULC) patterns** and **socio-economic conditions** of **Dulahajara Mouza**, located in **Chakaria Upazila, Cox’s Bazar District, Bangladesh**.  
 The study integrates **field-based socio-economic survey data** with **GIS-based spatial analysis** to support land management, local planning, and development-related decision-making.
 
 ---
 
-## 📍 Study Area
+## Study Area
 - **Mouza**: Dulahajara  
 - **Upazila**: Chakaria  
 - **District**: Cox’s Bazar  
@@ -32,7 +32,7 @@ The study integrates **field-based socio-economic survey data** with **GIS-based
 
 ---
 
-## 🧠 Methodology & Analysis
+##  Methodology & Analysis
 - Land Use / Land Cover (LULC) classification  
 - Spatial digitization and attribute data integration  
 - Area calculation and land use distribution analysis  
